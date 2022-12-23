@@ -1,6 +1,22 @@
-В данном репозитории находится дефолтный конфигурационный файл nginx
+## В данном репозитории находится дефолтный конфигурационный файл nginx
 
-# $$REPO
+Зачем этот репозиторий нужен:
+1. Разобраться, как загружать файл в репозиторий.
+2. Изучить, как выгружать файл из репозитория.
+3. Понять, зачем это нужно.
+
+Как можно использовать файл:
+- Загрузить
+- Выгрузить
+- Сохранить
+- Удалить
+
+Ссылка на примеры конфигурации файла [nginx.conf](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
+
+
+![](https://gitlab.rebrainme.com/devops_users_repos/4637/rebrain-devops-task1/-/blob/master/NGINX-logo-rgb-large.png)
+
+
 
 > $$1LINER
 background details relevant to understanding what this module does
